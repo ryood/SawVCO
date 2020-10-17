@@ -515,7 +515,7 @@ U 1 1 5F831DDF
 P 7050 1950
 F 0 "C11" V 6798 1950 50  0000 C CNN
 F 1 "100p" V 6889 1950 50  0000 C CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 7088 1800 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7088 1800 50  0001 C CNN
 F 3 "~" H 7050 1950 50  0001 C CNN
 	1    7050 1950
 	0    1    1    0   
@@ -996,8 +996,8 @@ L Device:R_POT_TRIM RV1
 U 1 1 5F7F41A8
 P 5000 2900
 F 0 "RV1" H 4930 2946 50  0000 R CNN
-F 1 "5k" H 4930 2855 50  0000 R CNN
-F 2 "myfootprint:Potentiometer_Bourns_3362P_Vertical" H 5000 2900 50  0001 C CNN
+F 1 "10k" H 4930 2855 50  0000 R CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 5000 2900 50  0001 C CNN
 F 3 "~" H 5000 2900 50  0001 C CNN
 	1    5000 2900
 	1    0    0    -1  
