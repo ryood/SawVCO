@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "SawVCO"
-Date "2020-10-19"
+Date "2020-10-21"
 Rev "Ver. 1.0"
 Comp "PNPN Manufactory"
 Comment1 ""
@@ -981,8 +981,8 @@ L Device:R_POT_TRIM RV1
 U 1 1 5F7F41A8
 P 5000 2900
 F 0 "RV1" H 4930 2946 50  0000 R CNN
-F 1 "10k" H 4930 2855 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 5000 2900 50  0001 C CNN
+F 1 "5k" H 4930 2855 50  0000 R CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal" H 5000 2900 50  0001 C CNN
 F 3 "~" H 5000 2900 50  0001 C CNN
 	1    5000 2900
 	1    0    0    -1  
